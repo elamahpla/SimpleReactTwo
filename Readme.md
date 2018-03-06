@@ -11,3 +11,8 @@ A: I wanted support for scss without the pain of ejecting and wanted to play wit
 
 Q: How to use?<br>
 A: Clone or Download. Type npm install. Type npm start. Enjoy.
+
+Q: How can I use this for production?<br>
+A: I don't know. I'm working on that as I'm typing this. I'll update the Readme when I find a solution.
+
+If there's something here that isn't being used and someone (no one is going to use this) comes across it, tell me or submit a pr.
